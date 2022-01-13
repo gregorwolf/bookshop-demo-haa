@@ -1,0 +1,11 @@
+{
+  "generator-saphanaacademy-haa": {
+    "projectName": "bookshop-demo-haa",
+    "newDir": true,
+    "hdiContainerName": "bookshop-demo-db-service",
+    "authorization": true,
+    "clientHostname": "*",
+    "personalizeJWT": false,
+    "useNamedUser": false
+  }
+}
